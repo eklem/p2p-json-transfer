@@ -16,7 +16,7 @@
     <script>
       const p = new SimplePeer({
         initiator: location.hash === '#1',
-        trickle: true
+        trickle: false
       })
 
       p.on('error', err => console.log('error', err))
