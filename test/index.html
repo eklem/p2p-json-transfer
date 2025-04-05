@@ -33,7 +33,7 @@
 
       p.on('connect', () => {
         console.log('CONNECT')
-        p.send('whatever' + Math.random())
+        p.send('Hello peer! How are you doing? ' + Math.random())
       })
 
       p.on('data', data => {
