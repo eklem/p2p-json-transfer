@@ -1,0 +1,28 @@
+{
+  "name": "webrtc-p2p-json-transfer",
+  "version": "0.0.1",
+  "description": "p2p mobile JSON transfer over webrtc",
+  "keywords": [
+    "p2p",
+    "webrtc",
+    "json"
+  ],
+  "homepage": "https://github.com/eklem/webrtc-p2p-json-transfer#readme",
+  "bugs": {
+    "url": "https://github.com/eklem/webrtc-p2p-json-transfer/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eklem/webrtc-p2p-json-transfer.git"
+  },
+  "license": "MIT",
+  "author": "Espen Klem",
+  "type": "module",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
