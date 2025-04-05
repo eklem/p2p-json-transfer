@@ -7,6 +7,9 @@
     "webrtc",
     "json"
   ],
+  "dependencies": {
+    "simple-peer": "^9.11.1"
+  },
   "homepage": "https://github.com/eklem/webrtc-p2p-json-transfer#readme",
   "bugs": {
     "url": "https://github.com/eklem/webrtc-p2p-json-transfer/issues"
@@ -23,6 +26,7 @@
     "test": "test"
   },
   "scripts": {
+    "cp": "cp ./node_modules/simple-peer/simplepeer.min.js ./test/",
     "test": "echo \"Error: no test specified\" && exit 1"
   }
 }
