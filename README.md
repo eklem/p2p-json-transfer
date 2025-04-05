@@ -1,2 +1,2 @@
-# bluetooth-json-transfer
-p2p mobile bluetooth JSON transfer.
+# webrtc-p2p-json-transfer
+p2p mobile JSON transfer over webrtc.
