@@ -1,2 +1,2 @@
-# webrtc-p2p-json-transfer
-p2p mobile JSON transfer over webrtc.
+p2p-json-transfer
+mobile p2p JSON transfer somehow...
